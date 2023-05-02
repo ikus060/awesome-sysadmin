@@ -109,8 +109,9 @@
 - [Duplicati](http://www.duplicati.com) - Multiple backends, encryption, web-ui and multi-OS backup tool.
 - [Duplicity](https://duplicity.gitlab.io/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
 - [Elkarbackup](https://github.com/elkarbackup/elkarbackup) - Backup solution based on RSnapshot with a simple web interface
+- [Minarca](https://minarca.org/) - file backup and recovery for Linux, Windows and MacOS trough graphical user interface and command line.
 - [rclone](https://rclone.org/) - a command line program to sync files and directories to and from several cloud storage systems/providers.
-- [Rdiff-backup](http://www.nongnu.org/rdiff-backup/) - An easy A remote incremental backup of all your files.
+- [Rdiff-backup](https://rdiff-backup.net/) - An easy A remote incremental backup of all your files.
 - [Restic](https://restic.net/) - Secure, remote backup tool. Designed to be easy, fast, verifiable and efficient.
 - [Rsnapshot](http://rsnapshot.org/) - Filesystem Snapshotting Utility.
 - [Shield](https://github.com/starkandwayne/shield) - A pluggable architecture for backup and restore of database systems.
